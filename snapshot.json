@@ -1,0 +1,15 @@
+{
+  "generator": "Sitepeel 1.1.0",
+  "title": "My Framer Site",
+  "source": "https://rammandirsignature.framer.website/",
+  "viewport": {
+    "width": 1536,
+    "height": 742
+  },
+  "elementCount": 586,
+  "notes": [
+    "Scripts, frames, form values, editable text, data attributes and credential URL parameters are excluded. Review visible page text before sharing."
+  ],
+  "assetsIncluded": true,
+  "unavailableAssets": []
+}
